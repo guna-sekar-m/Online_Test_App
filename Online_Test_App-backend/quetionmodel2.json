@@ -1,0 +1,163 @@
+ [
+      {
+        "question": "The Indian Middle class is?",
+        "option1": "mysterious",
+        "option2": "homogeneous",
+        "option3": "defiant",
+        "option4": "stratified",
+        "correctAnswer": "homogeneous"
+      },
+      {
+        "question": "589654237, 89654237, 8965423, 965423, ?",
+        "option1": "58965",
+        "option2": "89654",
+        "option3": "65423",
+        "option4": "96542",
+        "correctAnswer": "89654"
+      },
+      {
+        "question": "How long will Machine Y, working alone, take to produce x candles?I. Machine X produces x candles in 5 minutes.II. Machine X and Machine Y working at the same time produce x candles in 2 minutes.",
+        "option1": "Both I and II are necessary to correctAnswer",
+        "option2": "Both I and II are not sufficient to correctAnswer",
+        "option3": "Either I or II alone is sufficient to correctAnswer",
+        "option4": "II alone is sufficient while I alone is not sufficient to correctAnswer",
+        "correctAnswer": "Both I and II are not sufficient to correctAnswer"
+      },
+      {
+        "question": "He said to his father, \"Please increase my pocket-money.\"",
+        "option1": "He told his father, \"Please increase the pocket-money\"",
+        "option2": "He pleaded his father to please increase my pocket money.",
+        "option3": "He requested his father to increase his pocket-money.",
+        "option4": "He asked his father to increase his pocket-money.",
+        "correctAnswer": "He requested his father to increase his pocket-money."
+      },
+      {
+        "question": "(solve as per the direction given above)",
+        "option1": "The institute",
+        "option2": "imparts training",
+        "option3": "in",
+        "option4": "the French.",
+        "correctAnswer": "the French."
+      },
+      {
+        "question": "Two positions of dice How many points will appear on the opposite to the face containing 5 points?",
+        "option1": "3",
+        "option2": "1",
+        "option3": "2",
+        "option4": "4",
+        "correctAnswer": "4"
+      },
+      {
+        "question": "If South-East becomes North, North-East becomes West and so on. What will West become?",
+        "option1": "North-EAST",
+        "option2": "SOUTH-EAST",
+        "option3": "North-WEST",
+        "option4": "SOUTH-WEST",
+        "correctAnswer": "SOUTH-EAST"
+      },
+      {
+        "question": "Statements:\nI. All the schools in the area had to be kept closed for most part of the week\nII. Many parents have withdrawn their children from the local schools.",
+        "option1": "Statement I is the cause and statement II is its effect",
+        "option2": "Statement II is the cause and statement I is its effect",
+        "option3": "Both the statement I and II statement II is independent causes",
+        "option4": "Both the statements I and II are effects of independent causes",
+        "correctAnswer": "Both the statements I and II are effects of independent causes"
+      },
+      {
+        "question": "Which organization introduced 'Hello UPI' and 'Bharat BillPay Connect' to enable conversational payments in India?",
+        "option1": "Reserve Bank of India (RBI)",
+        "option2": "National Payments Corporation of India (NPCI)",
+        "option3": "State Bank of India (SBI)",
+        "option4": "Indian Ministry of Finance",
+        "correctAnswer": "National Payments Corporation of India (NPCI)"
+      },
+      {
+        "question": "Which country has launched the lunar exploration spacecraft 'moon sniper' to land on the moon early next year?",
+        "option1": "United States",
+        "option2": "China",
+        "option3": "Russia",
+        "option4": "Japan",
+        "correctAnswer": "Japan"
+      },
+      {
+        "question": "What does the following declaration mean?\nint (*ptr)[10];",
+        "option1": "ptr is array of pointers to 10 integers",
+        "option2": "ptr is a pointer to an array of 10 integers",
+        "option3": "ptr is an array of 10 integers",
+        "option4": "ptr is a pointer to array",
+        "correctAnswer": "ptr is a pointer to an array of 10 integers"
+      },
+      {
+        "question": "What's a web browser?",
+        "option1": "A computer that stores WWW files",
+        "option2": "A kind of spider",
+        "option3": "A person who likes to look at websites",
+        "option4": "A software program that allows you to access sites on the World Wide Web",
+        "correctAnswer": "A software program that allows you to access sites on the World Wide Web"
+      },
+      {
+        "question": "Changing computer language of 1's and 0's to characters that a person can understand is...",
+        "option1": "Highlight",
+        "option2": "Clip art",
+        "option3": "Execute",
+        "option4": "Decode",
+        "correctAnswer": "Decode"
+      },
+      {
+        "question": "How many bits is a byte?",
+        "option1": "32",
+        "option2": "8",
+        "option3": "4",
+        "option4": "16",
+        "correctAnswer": "8"
+      },
+      {
+        "question": "The reflex angle between the hands of a clock at 10.25 is",
+        "option1": "180°",
+        "option2": "195°",
+        "option3": "192 1/2°",
+        "option4": "197 1/2 °",
+        "correctAnswer": "197 1/2 °"
+      },
+      {
+        "question": "Statements:\nSome mangoes are yellow. Some tixo are mangoes.\nConclusions:\n1. Some mangoes are green.\n2. Tixo is a yellow.",
+        "option1": "Only (1) conclusion follows",
+        "option2": "Only (2) conclusion follows",
+        "option3": "Either (1) or (2) follows",
+        "option4": "Neither (1) nor (2) follows",
+        "correctAnswer": "Neither (1) nor (2) follows"
+      },
+      {
+        "question": "What function should be used to free the memory allocated by calloc() ?",
+        "option1": "dealloc()",
+        "option2": "free()",
+        "option3": "malloc(variable_name, 0)",
+        "option4": "memalloc(variable_name, 0)",
+        "correctAnswer": "free()"
+      },
+      {
+        "question": "Which company has partnered with the Indian government for the 'Education to Entrepreneurship' program?",
+        "option1": "Google",
+        "option2": "Meta",
+        "option3": "Amazon",
+        "option4": "Khan Academy",
+        "correctAnswer": "Meta"
+      },
+      {
+        "question": "To print out a and b given below, which of the following printf() statement will you use?\n#include<stdio.h>\nfloat a=3.14;\ndouble b=3.14;",
+        "option1": "printf(\"%f %lf\", a, b);",
+        "option2": "printf(\"%Lf %f\", a, b);",
+        "option3": "printf(\"%Lf %Lf\", a, b);",
+        "option4": "printf(\"%f %Lf\", a, b);",
+        "correctAnswer": "printf(\"%f %lf\", a, b);"
+      },
+      {
+        "question": "Which is true about a method-local inner class?",
+        "option1": "You must have a reference to an instance of the enclosing class in order to instantiate it",
+        "option2": "It does not have access to nonstatic members of the enclosing class.",
+        "option3": "It must extend the enclosing class.",
+        "option4": "It can be marked static.",
+        "answer": "It does not have access to nonstatic members of the enclosing class."
+      }
+    ]
+  

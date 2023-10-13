@@ -1,0 +1,205 @@
+{
+    "questions": [
+      {
+        "question": "Look at this series : 7, 10, 8, 11, 9, 12 What number should come next?",
+        "option1": "7",
+        "option2": "10",
+        "option3": "12",
+        "option4": "13",
+        "correctAnswer": "10"
+      },
+      {
+        "question": "Today is Monday after 61 days it will be_______",
+        "option1": "Wednesday",
+        "option2": "Saturday",
+        "option3": "Tuesday",
+        "option4": "Thursday",
+        "correctAnswer": "Wednesday"
+      },
+      {
+        "question": "CUP : LIP :: BIRD : ________",
+        "option1": "GRASS",
+        "option2": "BUSH",
+        "option3": "FOREST",
+        "option4": "BEAK",
+        "correctAnswer": "BEAK"
+      },
+      {
+        "question": "Which storage device cannot be erased?",
+        "option1": "CD-ROM",
+        "option2": "Floppy disk",
+        "option3": "Magnetic tape storage",
+        "option4": "All of the above",
+        "correctAnswer": "CD-ROM"
+      },
+      {
+        "question": "The calendar for the year 2007 will be the same for the year",
+        "option1": "2014",
+        "option2": "2016",
+        "option3": "2017",
+        "option4": "2018",
+        "correctAnswer": "2018"
+      },
+      {
+        "question": "Arrange the words given below in a meaningful sequence.\n1. Key 2. Door 3. Lock 4. Room 5. Switch on",
+        "option1": "5 1 2 4 3",
+        "option2": "4 2 1 5 3",
+        "option3": "1 3 2 4 5",
+        "option4": "1 2 3 5 4",
+        "correctAnswer": "1 3 2 4 5"
+      },
+      {
+        "question": "How are data organized in a spreadsheet?",
+        "option1": "Lines and spaces",
+        "option2": "Layers and plans",
+        "option3": "Height and Width",
+        "option4": "Row and columns",
+        "correctAnswer": "Row and columns"
+      },
+      {
+        "question": "Which bus carries information between processors and peripherals?",
+        "option1": "Autobus",
+        "option2": "Data bus",
+        "option3": "Address bus",
+        "option4": "All of the above",
+        "correctAnswer": "Data bus"
+      },
+      {
+        "question": "How many times can you subtract 10 from 100?",
+        "option1": "9 times",
+        "option2": "10 times",
+        "option3": "1 time",
+        "option4": "0 times",
+        "correctAnswer": "1 time"
+      },
+      {
+        "question": "In a row of trees, a tree is 7th from the left end and 14th from the right end. How many trees are there in the row?",
+        "option1": "18",
+        "option2": "19",
+        "option3": "20",
+        "option4": "21",
+        "correctAnswer": "20"
+      },
+      {
+        "question": "How many such pairs of letters are there in the word SENDING, each of which has as many letters between its two letters as there are between them in the English alphabets?",
+        "option1": "No such letters",
+        "option2": "One",
+        "option3": "Two",
+        "option4": "Three",
+        "correctAnswer": "Three"
+      },
+      {
+        "question": "A man is 24 years, older than his son. In two years, his age will be twice the age of his son. The present age of his son is ?",
+        "option1": "14 years",
+        "option2": "22 years",
+        "option3": "18 years",
+        "option4": "24 years",
+        "correctAnswer": "22 years"
+      },
+      {
+        "question": "Harish sits on the right of Satish. Satish sits between Manish and Girish. Who sits farthest to the right?",
+        "option1": "Satish",
+        "option2": "Harish",
+        "option3": "Girish",
+        "option4": "Manish",
+        "correctAnswer": "Girish"
+      },
+      {
+        "question": "Grass in lawn grows equally thick and in a uniform rate. It takes 24 days for 70 cows and 60 days for 30 cows to eat the whole of the grass. How many cows are needed to eat the grass in 96 days?",
+        "option1": "20 cows",
+        "option2": "22 cows",
+        "option3": "18 cows",
+        "option4": "16 cows",
+        "correctAnswer": "22 cows"
+      },
+      {
+        "question": "In alphabet series, some alphabets are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\nadb _ ac _ da _ cddcb _ dbc _ cbda",
+        "option1": "bccba",
+        "option2": "cbbaa",
+        "option3": "ccbba",
+        "option4": "bbcad",
+        "correctAnswer": "ccbba"
+      },
+      {
+        "question": "Museum is related to Curator in the same way as Prison is related to ..",
+        "option1": "Manager",
+        "option2": "Monitor",
+        "option3": "Jailor",
+        "option4": "Warden",
+        "correctAnswer": "Jailor"
+      },
+      {
+        "question": "1 : 1 : : 25 : ?",
+        "option1": "26",
+        "option2": "125",
+        "option3": "240",
+        "option4": "625",
+        "correctAnswer": "625"
+      },
+      {
+        "question": "Choose the word which is least like the others word in a group?",
+        "option1": "Calendar",
+        "option2": "Date",
+        "option3": "Day",
+        "option4": "Year",
+        "correctAnswer": "Calendar"
+      },
+      {
+        "question": "Most of the sun’s energy is transferred by what mode of heat transfer?",
+        "option1": "Conduction",
+        "option2": "Radiation",
+        "option3": "Convection",
+        "option4": "None",
+        "correctAnswer": "Radiation"
+      },
+      {
+        "question": "Segmental chips are formed during machining:",
+        "option1": "High-speed steel",
+        "option2": "Mild steel",
+        "option3": "Cast iron",
+        "option4": "High carbon steel",
+        "correctAnswer": "Cast iron"
+      },
+      {
+        "question": "What is the escape velocity on the earth?",
+        "option1": "14.2 km/s",
+        "option2": "10.2 km/s",
+        "option3": "12.2 km/s",
+        "option4": "11.2 km/s",
+        "correctAnswer": "11.2 km/s"
+      },
+      {
+        "question": "Who is the founder of Microsoft?",
+        "option1": "Steve Henry",
+        "option2": "Bill Gates",
+        "option3": "C.V. Raman",
+        "option4": "Andrew Wilson",
+        "correctAnswer": "Bill Gates"
+      },
+      {
+        "question": "What does IBM stand for?",
+        "option1": "International Business Machines",
+        "option2": "International Bureau of Machines",
+        "option3": "International Business Model",
+        "option4": "Industry Business Model",
+        "correctAnswer": "International Business Machines"
+      },
+      {
+        "question": "Windows is a product of?",
+        "option1": "Google LLC",
+        "option2": "Microsoft Corporation",
+        "option3": "Oracle Corporation",
+        "option4": "Apple Inc.",
+        "correctAnswer": "Microsoft Corporation"
+      },
+      {
+        "question": "PERL is a?",
+        "option1": "Low-Level Language",
+        "option2": "Assembly Level Language",
+        "option3": "Hybrid Level Language",
+        "option4": "High-Level Language",
+        "correctAnswer": "High-Level Language"
+      }
+    ]
+  }
+  

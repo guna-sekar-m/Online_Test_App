@@ -1,0 +1,32 @@
+{
+  "usesTypeScript": false,
+  "usesCssModule": true,
+  "cssPreprocessor": "css",
+  "testLibrary": "Testing Library",
+  "component": {
+    "default": {
+      "path": "src/components",
+      "withStyle": true,
+      "withTest": true,
+      "withStory": false,
+      "withLazy": false
+    },
+    "core": {
+      "path": "src/core",
+      "withStyle": true,
+      "withTest": true,
+      "withStory": false,
+      "withLazy": false
+    },
+    "router": {
+      "path": "src/router",
+      "withStyle": false,
+      "withTest": true,
+      "withStory": false,
+      "withLazy": false
+    }
+   
+    
+  },
+  "usesStyledComponents": false
+}
